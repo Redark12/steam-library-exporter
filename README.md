@@ -112,4 +112,4 @@ Steam 安装在非默认路径且注册表无记录。请先正常启动一次 S
 
 ## License
 
-MIT（上传 GitHub 前可根据需要修改为其他许可证）
+[MIT](LICENSE)
